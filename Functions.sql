@@ -30,8 +30,8 @@ SELECT
 	datesold AS Date_Sold,
 	TRIM(postcode) AS Region_Postcode ,
 	TRIM(propertyType) AS Property_Type,
-	TRIM(bedrooms) AS number_Of_Bedrooms,
-	price
+	TRIM(bedrooms) AS Number_Of_Bedrooms,
+	price As Price
 FROM bronze.HousePrices_info;
 
 
