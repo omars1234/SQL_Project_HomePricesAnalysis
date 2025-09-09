@@ -3,7 +3,6 @@
 
 ## *House Pricing Data Engeneer and Analytics Project*
 
-## *👩‍💻 I'm currently working on...*
 
 ### *Welcome to the House Pricing Data Engeneer Project repository! 🚀*
 
